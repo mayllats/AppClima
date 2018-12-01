@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppClima</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="consultar_clima">Consultar Clima</string>
+    <string name="placeholder_latitude">Digite a latitude</string>
+    <string name="placeholder_longitude">Digite a longitude</string>
+</resources>
